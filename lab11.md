@@ -1,4 +1,54 @@
-# Test markdown
+---
+author:
+ Kunc Gregor
+title: Carving
+---
+
+# Opis poskusa 
+
+## Skica poskusa 
+
+# Fizikalne količine 
+
+## Merjene 
+
+## Izračunane 
+
+## Odvisne 
+
+## Neodvisne 
+
+# Konstante 
+
+# Vrstni red temperatur 
+
+## Razložitev izbire vrstnega reda 
+
+# Negotovosti in njihov vpliv 
+
+## Merske
+
+## Naključne 
+
+## Vpliv negotovosti na poskus 
+
+# Predpostavke in njihov vpliv 
+
+## Predpostavke {
+
+## Vpliv predpostavk na poskus 
+
+# Meritve 
+
+## Graf meritev 
+
+# Opis vzorca 
+
+# Matematični postopek 
+
+## Napoved glede na graf $p(T)$ 
+
+# Lajf je borba 
 
 
 ## SmartyPants
@@ -51,5 +101,5 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2NzYzMjgxOF19
+eyJoaXN0b3J5IjpbNjAwMzMxNTQ3LDE4Njc2MzI4MThdfQ==
 -->
