@@ -30,7 +30,10 @@ Na mizo smo položili stekleno brizko katero smo stiskali. S tem da smo odprtino
 ## Negotovosti in njihov vpliv 
 
 ### Merske
-- 
+- Ravnilo +- 0.5mm
+- Barometer +- 1kPa
+- Silomer +- 1N
+- Volumen 
 ### Naključne 
 
 ### Vpliv negotovosti na poskus 
@@ -104,6 +107,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyODA1Nzg5MSw0NDY2MjY2ODMsMTg2Nz
-YzMjgxOF19
+eyJoaXN0b3J5IjpbLTE5OTk1MjU2MjQsNDQ2NjI2NjgzLDE4Nj
+c2MzI4MThdfQ==
 -->
