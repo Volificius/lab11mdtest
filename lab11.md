@@ -3,7 +3,7 @@ Gregor Kunc, Vid Jerič, David Urankar
 
 ## Opis poskusa
  
-Na mizo smo položili 
+Na mizo smo položili stekleno brizko katero smo stiskali. S tem da smo odprtino brizge pritrdili na barometer s keterim smo merili tlak v brizgi
 
 ### Skica poskusa 
 
@@ -100,6 +100,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODIyOTMyMjgsNDQ2NjI2NjgzLDE4Nj
-c2MzI4MThdfQ==
+eyJoaXN0b3J5IjpbODM0OTAwMjksNDQ2NjI2NjgzLDE4Njc2Mz
+I4MThdfQ==
 -->
