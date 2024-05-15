@@ -3,11 +3,15 @@ Gregor Kunc, Vid Jerič, David Urankar
 
 ## Opis poskusa
  
-Na mizo smo položili stekleno brizko katero smo stiskali. S tem da smo odprtino brizge pritrdili na barometer s keterim smo merili tlak v brizgi
+Na mizo smo položili stekleno brizko katero smo stiskali. S tem da smo odprtino brizge pritrdili na barometer s keterim smo merili tlak v brizgi. Ter na sam stisljiv del brizge smo pritiskali z silomerom in merili s kakšno silo smo delovali na brizgo. 
 
 ### Skica poskusa 
 
 ## Fizikalne količine 
+
+- Sila [N]
+- Premik [m]
+- Sprememba volumna $m$
 
 ### Merjene 
 
@@ -100,6 +104,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODM0OTAwMjksNDQ2NjI2NjgzLDE4Njc2Mz
-I4MThdfQ==
+eyJoaXN0b3J5IjpbLTI0OTEwMDQ1Myw0NDY2MjY2ODMsMTg2Nz
+YzMjgxOF19
 -->
