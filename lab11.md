@@ -33,15 +33,16 @@ Na mizo smo položili stekleno brizko katero smo stiskali. S tem da smo odprtino
 - Ravnilo +- 0.5mm
 - Barometer +- 1kPa
 - Silomer +- 1N
-- Volumen 
-### Naključne 
+- Volumen +-0.5mL
 
 ### Vpliv negotovosti na poskus 
 
+Veriacija izračunanih količin ter samo odčitavanje rezultatov.
+
 ## Predpostavke in njihov vpliv 
 
-### Predpostavke {
-
+### Predpostavke 
+- Zrak ne pušča ven iz brizge
 ### Vpliv predpostavk na poskus 
 
 ## Meritve 
@@ -107,6 +108,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTk1MjU2MjQsNDQ2NjI2NjgzLDE4Nj
+eyJoaXN0b3J5IjpbLTE0Nzc4NDU2NDIsNDQ2NjI2NjgzLDE4Nj
 c2MzI4MThdfQ==
 -->
