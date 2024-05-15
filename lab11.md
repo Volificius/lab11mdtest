@@ -1,54 +1,51 @@
----
-author:
- Kunc Gregor
-title: Carving
----
+# Main Title
+Gregor Kunc, Vid Jerič, David Urankar
 
-# Opis poskusa 
+## Opis poskusa 
 
-## Skica poskusa 
+### Skica poskusa 
 
-# Fizikalne količine 
+## Fizikalne količine 
 
-## Merjene 
+### Merjene 
 
-## Izračunane 
+### Izračunane 
 
-## Odvisne 
+### Odvisne 
 
-## Neodvisne 
+### Neodvisne 
 
-# Konstante 
+## Konstante 
 
-# Vrstni red temperatur 
+## Vrstni red temperatur 
 
-## Razložitev izbire vrstnega reda 
+### Razložitev izbire vrstnega reda 
 
-# Negotovosti in njihov vpliv 
+## Negotovosti in njihov vpliv 
 
-## Merske
+### Merske
 
-## Naključne 
+### Naključne 
 
-## Vpliv negotovosti na poskus 
+### Vpliv negotovosti na poskus 
 
-# Predpostavke in njihov vpliv 
+## Predpostavke in njihov vpliv 
 
-## Predpostavke {
+### Predpostavke {
 
-## Vpliv predpostavk na poskus 
+### Vpliv predpostavk na poskus 
 
-# Meritve 
+## Meritve 
 
-## Graf meritev 
+### Graf meritev 
 
-# Opis vzorca 
+## Opis vzorca 
 
-# Matematični postopek 
+## Matematični postopek 
 
-## Napoved glede na graf $p(T)$ 
+### Napoved glede na graf $p(T)$ 
 
-# Lajf je borba 
+## Lajf je borba 
 
 
 ## SmartyPants
@@ -101,5 +98,5 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjAwMzMxNTQ3LDE4Njc2MzI4MThdfQ==
+eyJoaXN0b3J5IjpbNDQ2NjI2NjgzLDE4Njc2MzI4MThdfQ==
 -->
