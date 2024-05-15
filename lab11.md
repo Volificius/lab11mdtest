@@ -1,7 +1,9 @@
 # Main Title
 Gregor Kunc, Vid Jerič, David Urankar
 
-## Opis poskusa 
+## Opis poskusa
+ 
+Na mizo smo položili 
 
 ### Skica poskusa 
 
@@ -98,5 +100,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQ2NjI2NjgzLDE4Njc2MzI4MThdfQ==
+eyJoaXN0b3J5IjpbLTIwODIyOTMyMjgsNDQ2NjI2NjgzLDE4Nj
+c2MzI4MThdfQ==
 -->
