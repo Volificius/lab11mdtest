@@ -9,15 +9,19 @@ Na mizo smo položili stekleno brizko katero smo stiskali. S tem da smo odprtino
 
 ## Fizikalne količine 
 
-- Sila [N]
-- Premik [m]
-- Sprememba volumna $m$
+### Merjene
 
-### Merjene 
+- Sila [$N$]
+- Premik [$m$]
+- Sprememba volumna [$m^3$]
+- Tlak [$Pa$]
+ 
 
 ### Izračunane 
+- Delo [$J$]
 
 ### Odvisne 
+
 
 ### Neodvisne 
 
@@ -104,6 +108,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0OTEwMDQ1Myw0NDY2MjY2ODMsMTg2Nz
+eyJoaXN0b3J5IjpbLTc5NTM1NTc2OSw0NDY2MjY2ODMsMTg2Nz
 YzMjgxOF19
 -->
