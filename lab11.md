@@ -43,6 +43,9 @@ Veriacija izračunanih količin ter samo odčitavanje rezultatov.
 
 ### Predpostavke 
 - Zrak ne pušča ven iz brizge
+- S silomerom smo potiskali naravnost (ne pod kotom)
+- Zrak v cevi se ne segreva (Izotermna sprememba)
+- Tlak, ki ga merimo je enak tlaku "bata" na zrak v brizgi
 ### Vpliv predpostavk na poskus 
 
 ## Meritve 
@@ -108,6 +111,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0Nzc4NDU2NDIsNDQ2NjI2NjgzLDE4Nj
-c2MzI4MThdfQ==
+eyJoaXN0b3J5IjpbODc1NzkyOTM0LDQ0NjYyNjY4MywxODY3Nj
+MyODE4XX0=
 -->
