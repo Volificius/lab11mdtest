@@ -16,15 +16,16 @@ Na mizo smo položili stekleno brizko katero smo stiskali. S tem da smo odprtino
 - Sprememba volumna [$m^3$]
 - Tlak [$Pa$]
  
-
 ### Izračunane 
 - Delo [$J$]
-
 ### Odvisne 
-
-
+ - Tlak [$Pa$]
 ### Neodvisne 
-
+- Sila [$N$]
+- Premik [$m$]
+- Sprememba volumna [$m^3$]
+- Tlak [$Pa$]
+ 
 ## Konstante 
 
 ## Vrstni red temperatur 
@@ -108,6 +109,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5NTM1NTc2OSw0NDY2MjY2ODMsMTg2Nz
+eyJoaXN0b3J5IjpbLTc3MDI5NjIyNCw0NDY2MjY2ODMsMTg2Nz
 YzMjgxOF19
 -->
